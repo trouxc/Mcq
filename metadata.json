@@ -1,0 +1,5 @@
+{
+  "name": "PDF to MCQ Study Tool",
+  "description": "An advanced AI tool that transforms PDF documents into interactive study materials. Features a Study Mode for review and a Test Mode for self-assessment. Generated questions are in English, with an option to translate to Arabic.",
+  "requestFramePermissions": []
+}
